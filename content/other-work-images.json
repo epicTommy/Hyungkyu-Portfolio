@@ -1,0 +1,99 @@
+{
+  "Robotic Arm Accuracy Evaluation": {
+    "image": "image/other-work/robot.webp",
+    "preview": "image/other-work/robot-preview.webp",
+    "alt": "Two robotic arms on the laboratory test table",
+    "width": 720,
+    "height": 406,
+    "source": {
+      "file": "documents/RoboticArm_Presentation.pdf",
+      "page": 7
+    }
+  },
+  "Sump Pump Performance Testing": {
+    "image": "image/other-work/pump.webp",
+    "preview": "image/other-work/pump-preview.webp",
+    "alt": "Measured pump head, efficiency, and power curves",
+    "width": 720,
+    "height": 429,
+    "source": {
+      "file": "documents/Pump_Presentation.pdf",
+      "page": 23
+    }
+  },
+  "Upper-Limb Tremor Modeling": {
+    "image": "image/other-work/tremor.webp",
+    "preview": "image/other-work/tremor-preview.webp",
+    "alt": "Seven-degree-of-freedom upper-limb model with shoulder, elbow, and wrist motions",
+    "width": 674,
+    "height": 600,
+    "source": {
+      "file": "documents/Arm-Presentation.pdf",
+      "page": 3,
+      "crop": [
+        0.046153846153846156,
+        0.2677595628415301,
+        0.35384615384615387,
+        0.7540983606557377
+      ]
+    }
+  },
+  "Stock Volatility Classification": {
+    "image": "image/other-work/stock.webp",
+    "preview": "image/other-work/stock-preview.webp",
+    "alt": "Comparison of classification models by accuracy, precision, recall, and F1 score",
+    "width": 720,
+    "height": 562,
+    "source": {
+      "file": "documents/Stock.ipynb",
+      "page": null,
+      "cell": 88,
+      "output": 0
+    }
+  },
+  "Nudge: Food Reminder Tag": {
+    "image": "image/other-work/nudge.webp",
+    "preview": "image/other-work/nudge-preview.webp",
+    "alt": "Nudge reminder tag design with front and side views",
+    "width": 395,
+    "height": 508,
+    "source": {
+      "file": "documents/S26-Nudge-CaseStudy.pdf",
+      "page": 11
+    }
+  },
+  "Coolper: Auditorium Free-Cooling Retrofit": {
+    "image": "image/other-work/coolper.webp",
+    "preview": "image/other-work/coolper-preview.webp",
+    "alt": "Coolper schematic connecting a cooling tower, heat exchanger, and radiative coils",
+    "width": 558,
+    "height": 600,
+    "source": {
+      "file": "documents/MIT-Hack.pdf",
+      "page": 7,
+      "crop": [
+        0.027692307692307693,
+        0.20491803278688525,
+        0.38461538461538464,
+        0.8879781420765027
+      ]
+    }
+  },
+  "Home Ally: Home Services Marketplace": {
+    "image": "image/other-work/home-ally.webp",
+    "preview": "image/other-work/home-ally-preview.webp",
+    "alt": "Home Ally prototype screens for browsing and comparing home service providers",
+    "width": 720,
+    "height": 498,
+    "source": {
+      "file": "documents/HomeAlly.pdf",
+      "page": 9,
+      "crop": [
+        0.04153846153846154,
+        0.18032786885245902,
+        0.68,
+        0.9644808743169399
+      ]
+    }
+  }
+}
