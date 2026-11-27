@@ -3,7 +3,14 @@ My projects at Cooper Union have deepened my interest in improving building ener
 
 ---
 
-## 1. BEAM: Building Energy Monitoring & Forecasting
+## 1. Hybrid Heat Pump Retrofit & Thermal Storage
+*The Cooper Union · Energy Effic Building Systems · Fall 2026–Present · In Progress*
+
+Evaluating a hybrid heating retrofit for 41 Cooper Square that combines air-to-water heat pumps, existing gas boilers, thermal energy storage, and optimized control to assess potential reductions in energy use, operating costs, and carbon emissions.
+
+---
+
+## 2. BEAM: Building Energy Monitoring & Forecasting
 *Senior Capstone · Fall 2026–Present · In Progress*
 
 ### Description
@@ -22,7 +29,7 @@ Data pipeline and database design, API-based data integration, time-series analy
 
 ---
 
-## 2. Foundation Building AHU Monitoring
+## 3. Foundation Building AHU Monitoring
 *Vertically Integrated Projects · Fall 2026–Present · In Progress*
 
 <p align="center">
@@ -50,7 +57,7 @@ HVAC field inspections, equipment inventory review, current transformer sensing 
 
 ---
 
-## 3. Foundation Building Energy Modeling & HVAC Optimization
+## 4. Foundation Building Energy Modeling & HVAC Optimization
 *Independent Study & Vertically Integrated Projects · Spring 2026*
 
 **Selected as an IDC Foundation Innovation Fellow, with work supported by the IDC Foundation.**
@@ -89,7 +96,7 @@ eQUEST whole-building energy simulation, thermal zoning, HVAC field surveys, uti
 
 ---
 
-## 4. Building Energy & Carbon Analysis
+## 5. Building Energy & Carbon Analysis
 *Vertically Integrated Projects · Fall 2025*
 
 <p align="center">

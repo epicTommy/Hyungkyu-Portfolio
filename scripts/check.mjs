@@ -24,7 +24,7 @@ for(const page of pages){
 const home=await readFile(path.join(root,'index.html'),'utf8');
 if((home.match(/class="other-project"/g)||[]).length!==7)throw Error('Expected seven other projects');
 const research=await readFile(path.join(root,'building-energy.html'),'utf8');
-if((research.match(/class="research-project"/g)||[]).length!==4)throw Error('Expected four research projects');
+if((research.match(/class="research-project"/g)||[]).length!==5)throw Error('Expected five research projects');
 if((research.match(/<li>/g)||[]).length!==19)throw Error('Expected 19 research contribution and finding bullets');
 if((research.match(/<h3>/g)||[]).length!==16)throw Error('Expected 16 research subsection headings');
-console.log(`PASS: 3 pages, ${checked} local file/anchor references, image alt text, 7 other projects, 4 research projects.`);
+console.log(`PASS: 3 pages, ${checked} local file/anchor references, image alt text, 7 other projects, 5 research projects.`);

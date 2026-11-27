@@ -107,6 +107,7 @@ const researchTitle = researchIntro.split('\n')[0].replace('# ','');
 const researchDescription = researchIntro.split('\n').slice(1).filter(line => line.trim() !== '---').join('\n').trim();
 // Preserve existing deep links when projects are reordered or their titles are refined.
 const researchAnchors = {
+  'Hybrid Heat Pump Retrofit & Thermal Storage': 'project-5',
   'Building Energy & Carbon Analysis': 'project-1',
   'Foundation Building Energy Modeling & HVAC Optimization': 'project-2',
   'BEAM: Building Energy Monitoring & Forecasting': 'project-3',
