@@ -1,9 +1,9 @@
 MECHANICAL ENGINEERING · THE COOPER UNION
 
 # Hyungkyu (Tom) Lee
-I am a mechanical engineering student interested in energy, building energy systems, thermal systems, and controls. I am also interested in startups and in applying AI and other data-driven methods to understand physical systems and solve practical problems.
+I am a mechanical engineering student interested in thermal energy conversion, storage, and building energy systems. I am also interested in using AI and data-driven methods to solve engineering problems and translating research into practical technologies and startups.
 
-#energy #buildings #HVAC #startups #problem solving #AI Applications
+#Thermal Energy #Energy Storage #Building Energy #Data-Driven Methods #AI Applications #Startups
 
 # Selected Work
 ## 1. Building Energy Modeling & Monitoring
