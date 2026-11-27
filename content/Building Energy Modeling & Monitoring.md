@@ -3,14 +3,7 @@ My projects at Cooper Union have deepened my interest in improving building ener
 
 ---
 
-## 1. Hybrid Heat Pump Retrofit & Thermal Storage
-*The Cooper Union · Energy Effic Building Systems · Fall 2026–Present · In Progress*
-
-Evaluating a hybrid heating retrofit for 41 Cooper Square that combines air-to-water heat pumps, existing gas boilers, thermal energy storage, and optimized control to assess potential reductions in energy use, operating costs, and carbon emissions.
-
----
-
-## 2. BEAM: Building Energy Monitoring & Forecasting
+## 1. BEAM: Building Energy Monitoring & Forecasting
 *Senior Capstone · Fall 2026–Present · In Progress*
 
 ### Description
@@ -29,7 +22,7 @@ Data pipeline and database design, API-based data integration, time-series analy
 
 ---
 
-## 3. Foundation Building AHU Monitoring
+## 2. Foundation Building AHU Monitoring
 *Vertically Integrated Projects · Fall 2026–Present · In Progress*
 
 <p align="center">
@@ -45,7 +38,7 @@ Investigating HVAC operation in Cooper Union’s Foundation Building, focusing o
 - Documented AHU types, served spaces, and BMS connectivity through field inspections and equipment inventory reviews.
 - Analyzed current transformer measurements from multizone AHUs to compare operating schedules and electrical current profiles.
 
-### Key Findings
+### Initial Findings
 - 19 of the building’s 30 inventoried AHUs were not connected to the BMS, limiting visibility into their operation.
 - Several monitored units remained energized throughout most of the recording period.
 - MZ-5 showed a distinct nighttime setback, while other units maintained relatively constant current levels.
@@ -54,6 +47,13 @@ Investigating HVAC operation in Cooper Union’s Foundation Building, focusing o
 HVAC field inspections, equipment inventory review, current transformer sensing and data logging, time-series visualization, and operating schedule analysis.
 
 #### 📄 [View Proposal](documents/F26-VIP.pdf)
+
+---
+
+## 3. Hybrid Heat Pump Retrofit with Thermal Energy Storage and Optimal Control for 41 Cooper Square
+*The Cooper Union · Energy Effic Building Systems · Fall 2026–Present · In Progress*
+
+Evaluating a hybrid heating retrofit for 41 Cooper Square that combines air-to-water heat pumps, existing gas boilers, thermal energy storage, and optimized control to assess potential reductions in energy use, operating costs, and carbon emissions.
 
 ---
 

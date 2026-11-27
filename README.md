@@ -16,4 +16,4 @@ Edit the Markdown files in `content/` to update project text. Layout and styling
 
 Push to `main` to build, validate, and deploy through GitHub Actions. GitHub Pages uses the generated `dist/` folder.
 
-The CV navigation item is disabled until a PDF is provided. To enable it, add the PDF to `content/documents/` and replace the CV placeholder in `scripts/build.mjs` with a link.
+The CV navigation link opens `content/documents/Hyungkyu_Lee_CV.pdf` in a new tab. Replace that file to publish an updated CV.

@@ -70,7 +70,7 @@ function shell(title, description, content, detail = false) {
 <script src="app.js" defer></script></head>
 <body id="top" class="${detail ? 'detail-page' : 'home-page'}">
 <a class="skip-link" href="#main">Skip to content</a>
-<header class="site-header wrap"><a class="wordmark" href="index.html">Hyungkyu Lee</a><nav aria-label="Main navigation"><a href="${detail ? 'index.html' : ''}#selected-work">Selected Work</a><a href="${detail ? 'index.html' : ''}#other-work">Other Work</a><span class="nav-pending" aria-disabled="true" title="CV PDF coming soon">CV<span class="sr-only"> (PDF coming soon)</span></span><a href="https://www.linkedin.com/in/hyungkyutom" target="_blank" rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in a new tab)</span></a></nav></header>
+<header class="site-header wrap"><a class="wordmark" href="index.html">Hyungkyu Lee</a><nav aria-label="Main navigation"><a href="${detail ? 'index.html' : ''}#selected-work">Selected Work</a><a href="${detail ? 'index.html' : ''}#other-work">Other Work</a><a href="documents/Hyungkyu_Lee_CV.pdf" target="_blank" rel="noopener noreferrer">CV<span class="sr-only"> (opens in a new tab)</span></a><a href="https://www.linkedin.com/in/hyungkyutom" target="_blank" rel="noopener noreferrer">LinkedIn<span class="sr-only"> (opens in a new tab)</span></a></nav></header>
 ${content}
 <footer class="site-footer wrap"><span>Hyungkyu (Tom) Lee <span class="footer-field"> / Mechanical Engineering</span></span><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
 <dialog class="lightbox" aria-label="Enlarged project figure"><div class="lightbox-bar"><span>Project figure</span><button type="button" class="close-lightbox" aria-label="Close enlarged figure">Close <span aria-hidden="true">×</span></button></div><img class="lightbox-image" alt=""></dialog>
@@ -107,7 +107,7 @@ const researchTitle = researchIntro.split('\n')[0].replace('# ','');
 const researchDescription = researchIntro.split('\n').slice(1).filter(line => line.trim() !== '---').join('\n').trim();
 // Preserve existing deep links when projects are reordered or their titles are refined.
 const researchAnchors = {
-  'Hybrid Heat Pump Retrofit & Thermal Storage': 'project-5',
+  'Hybrid Heat Pump Retrofit with Thermal Energy Storage and Optimal Control for 41 Cooper Square': 'project-5',
   'Building Energy & Carbon Analysis': 'project-1',
   'Foundation Building Energy Modeling & HVAC Optimization': 'project-2',
   'BEAM: Building Energy Monitoring & Forecasting': 'project-3',
